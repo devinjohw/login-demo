@@ -1,7 +1,7 @@
 # Login Demo
 [English](README.md)
 
-2024年，12月21日，星期六，我 实现了 一个 简单的 路由守卫功能，心情 很激动😊！说实话，我 想 实现 这个功能 已经很久了，但是 参考的 一些资料 总是 不能满足 我预想的 效果，在参照了 一些开源项目 和视频 后，加上 Cursor (很好用的 AI 代码编辑器) 和 我自己的 一些思考，终于 实现了 这个功能。这个项目 最终实现的效果 感觉像个 玩具工程，但是 其背后的 状态管理 还是 值得我思考的，我也认识到 状态管理 对于React项目 的重要性。
+2024年，12月21日，星期六，我 实现了 一个 简单的 路由守卫功能，心情 很激动😊！说实话，我 想 实现 这个功能 已经很久了，但是 参考的 一些资料 总是 不能满足 我预想的 效果，在参照了 一些开源项目 和视频 后，加上 [Cursor](https://www.cursor.com/) (很好用的 AI 代码编辑器) 和 我自己的 一些思考，终于 实现了 这个功能。这个项目 最终实现的效果 感觉像个 玩具工程，但是 其背后的 状态管理 还是 值得我思考的，我也认识到 状态管理 对于React项目 的重要性。
 下面的 两个 资源 对我 实现 这个 功能 有 很大的 帮助：
 1. [Role Based Authentication and Authorization in React JS | Role Based Access Control in React JS (油管视频)](https://www.youtube.com/watch?v=Q5_3_3_3_3)
 2. [Material Kit React (一个 Material UI 开源项目)](https://github.com/devias-io/material-kit-react)
