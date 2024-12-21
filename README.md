@@ -1,7 +1,2 @@
-# Login Demo
-
-```bash
-# To run this project
-pnpm install
-pnpm run dev
-```
+Login Demo
+[中文](README.zh.md)

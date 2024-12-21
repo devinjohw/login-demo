@@ -7,8 +7,13 @@ function AuthProvider({ children }: { children: React.ReactNode }) {
   
   async function checkAuth() {
     await new Promise(resolve => setTimeout(resolve, 1000))
+    // To set the initial login state to false
+    // setIsLoading(false)
+    // setIsAuthenticated(false)
+    
+    // To set the initial login state to true
     setIsLoading(false)
-    setIsAuthenticated(false)
+    setIsAuthenticated(true)
   }
 
   useEffect(() => {
